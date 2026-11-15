@@ -1,0 +1,232 @@
+kind,category,stream_id,extension,name,fingerprint
+live,Live · Radio,1001,aac,AAC · AAC 2.0,aac/aac/?/?/8bit/sdr/?/progressive/?/aac/lc/2/a1/none/s?/live
+live,Live · Radio,1002,ts,FLV · HE-AAC v2 2.0,flv/ts/?/?/8bit/sdr/?/progressive/?/aac/he-aacv2/2/a1/none/s?/live
+live,Live · HLS,1003,m3u8,HLS · H.264 High 1024×576 25 fps · AAC 2.0 · DVB subtitles,mpegts/m3u8/h264/high/8bit/sdr/576/progressive/25/aac/lc/2/a1/dvb_subtitle/s1/live
+live,Live · HLS,1004,m3u8,HLS · H.264 High 1920×1080 25 fps · HE-AAC v2 2.0,mpegts/m3u8/h264/high/8bit/sdr/1080/progressive/25/aac/he-aacv2/2/a1/none/s?/live
+live,Live · HLS,1005,m3u8,HLS · H.264 High 1920×1080 25 fps · MP2 2.0 (2 tracks),mpegts/m3u8/h264/high/8bit/sdr/1080/progressive/25/mp2/2/a1+/none/s?/live
+live,Live · HLS,1006,m3u8,HLS · H.264 High 1920×1080 25 fps interlaced · AAC 2.0 + E-AC-3 (2 tracks),mpegts/m3u8/h264/high/8bit/sdr/1080/tt/25/aac/lc+eac3/2/a1+/none/s?/live
+live,Live · HLS,1007,m3u8,HLS · H.264 Main 1024×576 50 fps · AAC 2.0 + MP2 (3 tracks),mpegts/m3u8/h264/main/8bit/sdr/576/progressive/50/aac/lc+mp2/2/a1+/none/s?/live
+live,Live · HLS,1008,m3u8,HLS · H.264 Main 1280×720 59.94 fps · HE-AAC 2.0,mpegts/m3u8/h264/main/8bit/sdr/720/progressive/60/aac/he-aac/2/a1/none/s?/live
+live,Live · Other containers,1009,mkv,MKV · H.264 High 1920×1080 23.98 fps · E-AC-3 5.1 · SRT subtitles (32),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/eac3/6/a1/subrip/s1+/live
+live,Live · Other containers,1010,mkv,MKV · H.264 High 1920×1080 60 fps · AC-3 2.0 (4 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/60/ac3/2/a1+/none/s?/live
+live,Live · Other containers,1011,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · E-AC-3 5.1 · SRT subtitles,matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/eac3/6/a1/subrip/s1/live
+live,Live · Other containers,1012,mkv,MKV · HEVC Main 10 3840×2076 23.98 fps 10-bit Dolby Vision · AAC 5.1 · PGS subtitles,matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/aac/lc/6/a1/hdmv_pgs_subtitle/s1/live
+live,Live · Other containers,1013,mkv,MKV · HEVC Main 10 3840×2160 24 fps 10-bit · AAC 5.1 · SRT subtitles (46),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/25/aac/lc/6/a1/subrip/s1+/live
+live,Live · Other containers,1014,mkv,MKV · HEVC Main 1920×1080 24 fps · AC-3 5.1 · ASS subtitles,matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1/ass/s1/live
+live,Live · Radio,1015,mp3,MP3 · MP3 2.0,mp3/mp3/?/?/8bit/sdr/?/progressive/?/mp3/2/a1/none/s?/live
+live,Live · Radio,1016,ts,MP3 · MP3 2.0 #2,mp3/ts/?/?/8bit/sdr/?/progressive/?/mp3/2/a1/none/s?/live
+live,Live · Other containers,1017,mp4,MP4 · H.264 High 1920×1080 25 fps · AAC 2.0 · MP4 text subtitles (5),mov/mp4/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1/mov_text/s1+/live
+live,Live · MPEG-TS,1018,ts,MPEG-TS · AAC 2.0,mpegts/ts/?/?/8bit/sdr/?/progressive/?/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1019,ts,MPEG-TS · H.264 High 1024×540 25 fps · HE-AAC 2.0 · DVB subtitles,mpegts/ts/h264/high/8bit/sdr/576/progressive/25/aac/he-aac/2/a1/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1020,ts,MPEG-TS · H.264 High 1024×576 25 fps · AAC 2.0 (2 tracks) · DVB subtitles,mpegts/ts/h264/high/8bit/sdr/576/progressive/25/aac/lc/2/a1+/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1021,ts,MPEG-TS · H.264 High 1024×576 25 fps · HE-AAC v2 2.0,mpegts/ts/h264/high/8bit/sdr/576/progressive/25/aac/he-aacv2/2/a1/none/s?/live
+live,Live · MPEG-TS,1022,ts,MPEG-TS · H.264 High 1280×720 25 fps,mpegts/ts/h264/high/8bit/sdr/720/progressive/25/none/?/a?/none/s?/live
+live,Live · MPEG-TS,1023,ts,MPEG-TS · H.264 High 1280×720 25 fps · AAC 2.0 · DVB subtitles (2),mpegts/ts/h264/high/8bit/sdr/720/progressive/25/aac/lc/2/a1/dvb_subtitle/s1+/live
+live,Live · MPEG-TS,1024,ts,MPEG-TS · H.264 High 1280×720 25 fps · HE-AAC 2.0,mpegts/ts/h264/high/8bit/sdr/720/progressive/25/aac/he-aac/2/a1/none/s?/live
+live,Live · MPEG-TS,1025,ts,MPEG-TS · H.264 High 1280×720 59.94 fps · AAC 2.0 + AC-3 (3 tracks),mpegts/ts/h264/high/8bit/sdr/720/progressive/60/aac/lc+ac3/2/a1+/none/s?/live
+live,Live · MPEG-TS,1026,ts,MPEG-TS · H.264 High 1920×1080 25 fps · AAC 2.0,mpegts/ts/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1027,ts,MPEG-TS · H.264 High 1920×1080 25 fps · AAC 2.0 (2 tracks) · DVB subtitles,mpegts/ts/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1+/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1028,ts,MPEG-TS · H.264 High 1920×1080 25 fps interlaced · MP2 1.0,mpegts/ts/h264/high/8bit/sdr/1080/tt/25/mp2/1/a1/none/s?/live
+live,Live · MPEG-TS,1029,ts,MPEG-TS · H.264 High 1920×1080 25 fps interlaced · MP2 2.0 (5 tracks) · DVB subtitles (7),mpegts/ts/h264/high/8bit/sdr/1080/tt/25/mp2/2/a1+/dvb_subtitle/s1+/live
+live,Live · MPEG-TS,1030,ts,MPEG-TS · H.264 High 1920×1080 50 fps · AC-3 5.1 · DVB subtitles,mpegts/ts/h264/high/8bit/sdr/1080/progressive/50/ac3/6/a1/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1031,ts,MPEG-TS · H.264 High 1920×1080 59.94 fps · AC-3 5.1 + HE-AAC + AAC (3 tracks),mpegts/ts/h264/high/8bit/sdr/1080/progressive/60/aac/he-aac+aac/lc+ac3/6/a1+/none/s?/live
+live,Live · MPEG-TS,1032,ts,MPEG-TS · H.264 High 854×480 29.97 fps interlaced · AAC 2.0,mpegts/ts/h264/high/8bit/sdr/480/bb/30/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1033,ts,MPEG-TS · H.264 Main 1280×720 25 fps · HE-AAC v2 2.0 · DVB subtitles,mpegts/ts/h264/main/8bit/sdr/720/progressive/25/aac/he-aacv2/2/a1/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1034,ts,MPEG-TS · H.264 Main 1920×1080 50 fps · E-AC-3 2.0 + AAC (2 tracks),mpegts/ts/h264/main/8bit/sdr/1080/progressive/50/aac/lc+eac3/2/a1+/none/s?/live
+live,Live · MPEG-TS,1035,ts,MPEG-TS · H.264 Main 256×144 30 fps · AAC 2.0 (4 tracks),mpegts/ts/h264/main/8bit/sdr/480/progressive/30/aac/lc/2/a1+/none/s?/live
+live,Live · MPEG-TS,1036,ts,MPEG-TS · HE-AAC 2.0,mpegts/ts/?/?/8bit/sdr/?/progressive/?/aac/he-aac/2/a1/none/s?/live
+live,Live · MPEG-TS,1037,ts,MPEG-TS · HE-AAC v2 2.0 (2 tracks),mpegts/ts/?/?/8bit/sdr/?/progressive/?/aac/he-aacv2/2/a1+/none/s?/live
+live,Live · MPEG-TS,1038,ts,MPEG-TS · HEVC Main 10 3840×2160 50 fps 10-bit HDR10 · E-AC-3 2.0 + AAC (4 tracks),mpegts/ts/hevc/main-10/10bit/hdr10/2160/progressive/50/aac/lc+eac3/2/a1+/none/s?/live
+live,Live · MPEG-TS,1039,ts,MPEG-TS · HEVC Main 10 3840×2160 50 fps 10-bit HLG · E-AC-3 2.0,mpegts/ts/hevc/main-10/10bit/hlg/2160/progressive/50/eac3/2/a1/none/s?/live
+live,Live · MPEG-TS,1040,ts,MPEG-TS · HEVC Main 10 3840×2160 59.94 fps 10-bit BT.2020 SDR · AAC 2.0,mpegts/ts/hevc/main-10/10bit/bt2020-sdr/2160/progressive/60/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1041,ts,MPEG-TS · HEVC Main 1920×1080 29.97 fps · AAC 2.0 (4 tracks),mpegts/ts/hevc/main/8bit/sdr/1080/progressive/30/aac/lc/2/a1+/none/s?/live
+live,Live · MPEG-TS,1042,ts,MPEG-TS · HEVC Main 1920×1080 50 fps · HE-AAC 2.0 · DVB subtitles,mpegts/ts/hevc/main/8bit/sdr/1080/progressive/50/aac/he-aac/2/a1/dvb_subtitle/s1/live
+live,Live · MPEG-TS,1043,ts,MPEG-TS · HEVC Main 1920×1080 50 fps · HE-AAC 2.0 (2 tracks),mpegts/ts/hevc/main/8bit/sdr/1080/progressive/50/aac/he-aac/2/a1+/none/s?/live
+live,Live · MPEG-TS,1044,ts,MPEG-TS · HEVC Main 1920×1080 50 fps · MP2 2.0,mpegts/ts/hevc/main/8bit/sdr/1080/progressive/50/mp2/2/a1/none/s?/live
+live,Live · MPEG-TS,1045,ts,MPEG-TS · HEVC Main 3840×2160 50 fps,mpegts/ts/hevc/main/8bit/sdr/2160/progressive/50/none/?/a?/none/s?/live
+live,Live · MPEG-TS,1046,ts,MPEG-TS · HEVC Main 3840×2160 50 fps · HE-AAC v2 2.0,mpegts/ts/hevc/main/8bit/sdr/2160/progressive/50/aac/he-aacv2/2/a1/none/s?/live
+live,Live · MPEG-TS,1047,ts,MPEG-TS · MP3 2.0,mpegts/ts/?/?/8bit/sdr/?/progressive/?/mp3/2/a1/none/s?/live
+live,Live · MPEG-TS,1048,ts,MPEG-TS · MPEG-2 Main 1024×576 25 fps · AAC 2.0,mpegts/ts/mpeg2video/main/8bit/sdr/576/progressive/25/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1049,ts,MPEG-TS · MPEG-2 Main 1024×576 25 fps interlaced · MP2 2.0,mpegts/ts/mpeg2video/main/8bit/sdr/576/bb/25/mp2/2/a1/none/s?/live
+live,Live · MPEG-TS,1050,ts,MPEG-TS · MPEG-2 Main 1280×720 59.94 fps · MP2 2.0,mpegts/ts/mpeg2video/main/8bit/sdr/720/progressive/60/mp2/2/a1/none/s?/live
+live,Live · MPEG-TS,1051,ts,MPEG-TS · H.264 Baseline 456×256 25 fps · MP3 2.0 (3 tracks),mpegts/ts/h264/baseline/8bit/sdr/480/progressive/25/mp3/2/a1+/none/s?/live
+live,Live · MPEG-TS,1052,ts,MPEG-TS · H.264 High 1024×576 25 fps interlaced · HE-AAC LATM 2.0 · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/576/tt/25/aac_latm/he-aac/2/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1053,ts,MPEG-TS · H.264 High 1280×720 25 fps · AAC 2.0 + HE-AAC v2 (4 tracks) · Teletext subtitles (4),mpegts/ts/h264/high/8bit/sdr/720/progressive/25/aac/he-aacv2+aac/lc/2/a1+/dvb_teletext/s1+/live
+live,Live · MPEG-TS,1054,ts,MPEG-TS · H.264 High 1280×720 50 fps · AAC 2.0 (2 tracks) · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/720/progressive/50/aac/lc/2/a1+/dvb_teletext/s1/live
+live,Live · MPEG-TS,1055,ts,MPEG-TS · H.264 High 1280×720 50 fps · AC-3 5.1 · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/720/progressive/50/ac3/6/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1056,ts,MPEG-TS · H.264 High 1280×720 50 fps · HE-AAC LATM 2.0 + AC-3 (2 tracks) · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/720/progressive/50/aac_latm/he-aac+ac3/2/a1+/dvb_teletext/s1/live
+live,Live · MPEG-TS,1057,ts,MPEG-TS · H.264 High 1920×1080 25 fps interlaced · AC-3 5.0 (3 tracks) · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/1080/tt/25/ac3/6/a1+/dvb_teletext/s1/live
+live,Live · MPEG-TS,1058,ts,MPEG-TS · H.264 High 1920×1080 25 fps interlaced · AC-3 5.1 + MP2 (2 tracks) · DVB + Teletext subtitles (4),mpegts/ts/h264/high/8bit/sdr/1080/tt/25/ac3+mp2/6/a1+/dvb_subtitle+dvb_teletext/s1+/live
+live,Live · MPEG-TS,1059,ts,MPEG-TS · H.264 High 1920×1080 25 fps interlaced · E-AC-3 2.0 · Teletext subtitles,mpegts/ts/h264/high/8bit/sdr/1080/tt/25/eac3/2/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1060,ts,MPEG-TS · H.264 Main 1024×576 25 fps interlaced · MP2 2.0 · Teletext subtitles,mpegts/ts/h264/main/8bit/sdr/576/tt/25/mp2/2/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1061,ts,MPEG-TS · HEVC Main 10 1920×1080 25 fps · AAC 2.0,mpegts/ts/hevc/main-10/8bit/sdr/1080/progressive/25/aac/lc/2/a1/none/s?/live
+live,Live · MPEG-TS,1062,ts,MPEG-TS · HEVC Main 1920×1080 50 fps · AAC 2.0 · Teletext subtitles,mpegts/ts/hevc/main/8bit/sdr/1080/progressive/50/aac/lc/2/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1063,ts,MPEG-TS · HEVC Main 3840×2160 50 fps · MP2 2.0 · Teletext subtitles,mpegts/ts/hevc/main/8bit/sdr/2160/progressive/50/mp2/2/a1/dvb_teletext/s1/live
+live,Live · MPEG-TS,1064,ts,MPEG-TS · MPEG-2 Main 1024×576 25 fps interlaced · MP2 2.0 (2 tracks) · Teletext subtitles,mpegts/ts/mpeg2video/main/8bit/sdr/576/tt/25/mp2/2/a1+/dvb_teletext/s1/live
+movie,Films · H.264,2001,avi,AVI · H.264 Constrained Baseline 526×296 23.98 fps · MP3 2.0 (2 tracks),avi/avi/h264/constrained-baseline/8bit/sdr/480/progressive/25/mp3/2/a1+/none/s?/vod
+movie,Films · Older video,2002,avi,AVI · MPEG-4 Part 2 Advanced Simple 540×304 23.98 fps · AC-3 2.0 (2 tracks),avi/avi/mpeg4/advanced-simple-profile/8bit/sdr/480/progressive/25/ac3/2/a1+/none/s?/vod
+movie,Films · Older video,2003,avi,AVI · MPEG-4 Part 2 Advanced Simple 854×456 25 fps,avi/avi/mpeg4/advanced-simple-profile/8bit/sdr/480/progressive/25/none/?/a?/none/s?/vod
+movie,Films · Older video,2004,avi,AVI · MPEG-4 Part 2 Simple 854×384 50 fps · AC-3 5.1,avi/avi/mpeg4/simple-profile/8bit/sdr/480/progressive/50/ac3/6/a1/none/s?/vod
+movie,Films · Older video,2005,avi,AVI · MS MPEG-4 v3 1024×576 25 fps · PCM 16-bit 2.0,avi/avi/msmpeg4v3/?/8bit/sdr/576/progressive/25/pcm_s16le/2/a1/none/s?/vod
+movie,Films · Older video,2006,flv,FLV · Sorenson H.263 854×420 30 fps · MP3 2.0,flv/flv/flv1/?/8bit/sdr/480/progressive/30/mp3/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2007,mkv,MKV · AV1 Main 1920×1080 23.98 fps 10-bit · Opus 1.0 · SRT subtitles (8),matroska/mkv/av1/main/10bit/sdr/1080/progressive/25/opus/1/a1/subrip/s1+/vod
+movie,"Films · AV1, VP9, VP8",2008,mkv,MKV · AV1 Main 1920×1080 24 fps 10-bit · AAC 5.1,matroska/mkv/av1/main/10bit/sdr/1080/progressive/25/aac/lc/6/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2009,mkv,MKV · AV1 Main 1920×1080 25 fps · Opus 2.0,matroska/mkv/av1/main/8bit/sdr/1080/progressive/25/opus/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2010,mkv,MKV · AV1 Main 3840×2160 24 fps HDR10 · Opus 5.1,matroska/mkv/av1/main/8bit/hdr10/2160/progressive/25/opus/6/a1/none/s?/vod
+movie,Films · H.264,2011,mkv,MKV · H.264 Constrained Baseline 1280×720 29.97 fps · MP2 2.0,matroska/mkv/h264/constrained-baseline/8bit/sdr/720/progressive/30/mp2/2/a1/none/s?/vod
+movie,Films · H.264,2012,mkv,MKV · H.264 High 10 1920×1080 23.98 fps 10-bit · FLAC 5.1 (2 tracks),matroska/mkv/h264/high-10/10bit/sdr/1080/progressive/25/flac/6/a1+/none/s?/vod
+movie,Films · H.264,2013,mkv,MKV · H.264 High 10 1920×1080 23.98 fps 10-bit · FLAC 5.1 (2 tracks) · SRT subtitles,matroska/mkv/h264/high-10/10bit/sdr/1080/progressive/25/flac/6/a1+/subrip/s1/vod
+movie,Films · H.264,2014,mkv,MKV · H.264 High 1024×536 24 fps · AAC 5.1 · SRT subtitles (17),matroska/mkv/h264/high/8bit/sdr/576/progressive/25/aac/lc/6/a1/subrip/s1+/vod
+movie,Films · H.264,2015,mkv,MKV · H.264 High 1024×544 23.98 fps · AAC 3.0,matroska/mkv/h264/high/8bit/sdr/576/progressive/25/aac/lc/6/a1/none/s?/vod
+movie,Films · H.264,2016,mkv,MKV · H.264 High 1280×720 23.98 fps · FLAC 1.0 · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/720/progressive/25/flac/1/a1/subrip/s1+/vod
+movie,Films · H.264,2017,mkv,MKV · H.264 High 1280×720 23.98 fps · Opus 2.0,matroska/mkv/h264/high/8bit/sdr/720/progressive/25/opus/2/a1/none/s?/vod
+movie,Films · H.264,2018,mkv,MKV · H.264 High 1280×720 24 fps · AC-3 2.0,matroska/mkv/h264/high/8bit/sdr/720/progressive/25/ac3/2/a1/none/s?/vod
+movie,Films · H.264,2019,mkv,MKV · H.264 High 1280×720 25 fps · AAC 5.0,matroska/mkv/h264/high/8bit/sdr/720/progressive/25/aac/lc/6/a1/none/s?/vod
+movie,Films · H.264,2020,mkv,MKV · H.264 High 1280×720 29.97 fps · AAC 2.0 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/720/progressive/30/aac/lc/2/a1/subrip/s1/vod
+movie,Films · H.264,2021,mkv,MKV · H.264 High 1280×720 59.94 fps · HE-AAC 2.0,matroska/mkv/h264/high/8bit/sdr/720/progressive/60/aac/he-aac/2/a1/none/s?/vod
+movie,Films · H.264,2022,mkv,MKV · H.264 High 1920×1038 23.98 fps · AC-3 2.0 + E-AC-3 + TrueHD (5 tracks) · PGS + SRT subtitles (4),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+eac3+truehd/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · H.264,2023,mkv,MKV · H.264 High 1920×1040 23.98 fps · AAC 2.0 + DTS (2 tracks) · PGS + SRT subtitles (4),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+dts/dts/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · H.264,2024,mkv,MKV · H.264 High 1920×1040 23.98 fps · AC-3 1.0 (2 tracks) · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3/1/a1+/subrip/s1+/vod
+movie,Films · H.264,2025,mkv,MKV · H.264 High 1920×1040 23.98 fps · AC-3 2.0 + AAC (2 tracks) · PGS + SRT subtitles (3),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+ac3/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · H.264,2026,mkv,MKV · H.264 High 1920×1040 23.98 fps · DTS 5.1 (2 tracks) · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2027,mkv,MKV · H.264 High 1920×1040 23.98 fps · Opus 2.0 + AAC (2 tracks) · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+opus/2/a1+/subrip/s1/vod
+movie,Films · H.264,2028,mkv,MKV · H.264 High 1920×1080 23.98 fps · AAC 2.0 · ASS subtitles (5),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1/ass/s1+/vod
+movie,Films · H.264,2029,mkv,MKV · H.264 High 1920×1080 23.98 fps · AC-3 2.0 · PGS + SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3/2/a1/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · H.264,2030,mkv,MKV · H.264 High 1920×1080 23.98 fps · AC-3 2.0 + DTS (2 tracks) · ASS subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/2/a1+/ass/s1/vod
+movie,Films · H.264,2031,mkv,MKV · H.264 High 1920×1080 23.98 fps · AC-3 2.0 + DTS (2 tracks) · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/2/a1+/subrip/s1+/vod
+movie,Films · H.264,2032,mkv,MKV · H.264 High 1920×1080 23.98 fps · AC-3 5.1 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3/6/a1/subrip/s1/vod
+movie,Films · H.264,2033,mkv,MKV · H.264 High 1920×1080 23.98 fps · AC-3 5.1 + MP3 (3 tracks) · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+mp3/6/a1+/subrip/s1/vod
+movie,Films · H.264,2034,mkv,MKV · H.264 High 1920×1080 23.98 fps · DTS 5.1 (2 tracks) · PGS subtitles (3),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts/6/a1+/hdmv_pgs_subtitle/s1+/vod
+movie,Films · H.264,2035,mkv,MKV · H.264 High 1920×1080 23.98 fps · E-AC-3 5.1 (4 tracks) · SRT subtitles (11),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/eac3/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2036,mkv,MKV · H.264 High 1920×1080 23.98 fps · E-AC-3 5.1 + HE-AAC (5 tracks) · SRT subtitles (7),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/he-aac+eac3/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2037,mkv,MKV · H.264 High 1920×1080 23.98 fps · HE-AAC 2.0 + E-AC-3 (7 tracks) · ASS + DVD subtitles (8),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/he-aac+eac3/2/a1+/ass+dvd_subtitle/s1+/vod
+movie,Films · H.264,2038,mkv,MKV · H.264 High 1920×1080 24 fps · SRT subtitles (4),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/none/?/a?/subrip/s1+/vod
+movie,Films · H.264,2039,mkv,MKV · H.264 High 1920×1080 25 fps,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/none/?/a?/none/s?/vod
+movie,Films · H.264,2040,mkv,MKV · H.264 High 1920×1080 25 fps · AAC 1.0,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc/1/a1/none/s?/vod
+movie,Films · H.264,2041,mkv,MKV · H.264 High 1920×1080 25 fps · AAC 2.0 · WebVTT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1/webvtt/s1/vod
+movie,Films · H.264,2042,mkv,MKV · H.264 High 1920×1080 25 fps · AC-3 2.0,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3/2/a1/none/s?/vod
+movie,Films · H.264,2043,mkv,MKV · H.264 High 1920×1080 25 fps · E-AC-3 5.1 + AAC (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+eac3/6/a1+/none/s?/vod
+movie,Films · H.264,2044,mkv,MKV · H.264 High 1920×1080 25 fps · E-AC-3 5.1 + AAC (2 tracks) · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+eac3/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2045,mkv,MKV · H.264 High 1920×1080 25 fps interlaced · AC-3 2.0,matroska/mkv/h264/high/8bit/sdr/1080/tt/25/ac3/2/a1/none/s?/vod
+movie,Films · H.264,2046,mkv,MKV · H.264 High 1920×800 23.98 fps · AAC 2.0 + AC-3 (2 tracks) · PGS subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+ac3/2/a1+/hdmv_pgs_subtitle/s1/vod
+movie,Films · H.264,2047,mkv,MKV · H.264 High 1920×800 23.98 fps · AC-3 2.0 + DTS (2 tracks) · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/2/a1+/subrip/s1/vod
+movie,Films · H.264,2048,mkv,MKV · H.264 High 1920×800 23.98 fps · AC-3 3.0 + E-AC-3 (2 tracks) · SRT subtitles (3),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+eac3/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2049,mkv,MKV · H.264 High 1920×800 23.98 fps · AC-3 5.1 (2 tracks) · PGS subtitles (3),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3/6/a1+/hdmv_pgs_subtitle/s1+/vod
+movie,Films · H.264,2050,mkv,MKV · H.264 High 1920×800 23.98 fps · AC-3 5.1 + HE-AAC (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/he-aac+ac3/6/a1+/none/s?/vod
+movie,Films · H.264,2051,mkv,MKV · H.264 High 1920×800 23.98 fps · AC-3 5.1 + HE-AAC (2 tracks) · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/he-aac+ac3/6/a1+/subrip/s1/vod
+movie,Films · H.264,2052,mkv,MKV · H.264 High 1920×800 23.98 fps · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/none/?/a?/subrip/s1/vod
+movie,Films · H.264,2053,mkv,MKV · H.264 High 1920×800 24 fps · AC-3 5.1 + DTS (3 tracks) · SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/6/a1+/subrip/s1+/vod
+movie,Films · H.264,2054,mkv,MKV · H.264 High 1920×800 24 fps · MP3 2.0 + AAC (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+mp3/2/a1+/none/s?/vod
+movie,Films · H.264,2055,mkv,MKV · H.264 High 1920×800 25 fps · E-AC-3 5.1 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/eac3/6/a1/subrip/s1/vod
+movie,Films · H.264,2056,mkv,MKV · H.264 High 1920×804 24 fps · AC-3 2.0 + E-AC-3 (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+eac3/2/a1+/none/s?/vod
+movie,Films · H.264,2057,mkv,MKV · H.264 High 1920×804 25 fps · AAC 2.0 + AC-3 (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+ac3/2/a1+/none/s?/vod
+movie,Films · H.264,2058,mkv,MKV · H.264 High 1920×808 23.98 fps · AC-3 5.1 + DTS (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/6/a1+/none/s?/vod
+movie,Films · H.264,2059,mkv,MKV · H.264 High 1920×816 23.98 fps · AC-3 5.1 + AAC (2 tracks) · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+ac3/6/a1+/subrip/s1/vod
+movie,Films · H.264,2060,mkv,MKV · H.264 High 1920×816 23.98 fps · DTS 2.0,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts/2/a1/none/s?/vod
+movie,Films · H.264,2061,mkv,MKV · H.264 High 1920×816 23.98 fps · MP3 2.0 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/mp3/2/a1/subrip/s1/vod
+movie,Films · H.264,2062,mkv,MKV · H.264 High 1920×820 23.98 fps · AC-3 2.0 + DTS (2 tracks) · PGS + SRT subtitles (2),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · H.264,2063,mkv,MKV · H.264 High 1920×960 24 fps · DTS 5.1 (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts/6/a1+/none/s?/vod
+movie,Films · H.264,2064,mkv,MKV · H.264 High 3840×2160 23.98 fps · PCM 16-bit 2.0 + PCM 24-bit (3 tracks),matroska/mkv/h264/high/8bit/sdr/2160/progressive/25/pcm_s16le+pcm_s24le/2/a1+/none/s?/vod
+movie,Films · H.264,2065,mkv,MKV · H.264 High 3840×2160 30.3 fps · AC-3 5.1 · ASS subtitles (4),matroska/mkv/h264/high/8bit/sdr/2160/progressive/50/ac3/6/a1/ass/s1+/vod
+movie,Films · H.264,2066,mkv,MKV · H.264 High 4:2:2 1920×1080 23.98 fps · AAC 2.0,matroska/mkv/h264/high-4:2:2/8bit/sdr/1080/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2067,mkv,MKV · H.264 High 4:4:4 854×406 23.98 fps · AC-3 5.1 · SRT subtitles (2),matroska/mkv/h264/high-4:4:4-predictive/8bit/sdr/480/progressive/25/ac3/6/a1/subrip/s1+/vod
+movie,Films · H.264,2068,mkv,MKV · H.264 High 854×396 29.97 fps · HE-AAC 2.0 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/480/progressive/30/aac/he-aac/2/a1/subrip/s1/vod
+movie,Films · H.264,2069,mkv,MKV · H.264 Main 1920×1024 24 fps · MP3 2.0 + AC-3 (2 tracks),matroska/mkv/h264/main/8bit/sdr/1080/progressive/25/ac3+mp3/2/a1+/none/s?/vod
+movie,Films · H.264,2070,mkv,MKV · H.264 Main 1920×1080 23.98 fps interlaced · AC-3 5.1,matroska/mkv/h264/main/8bit/sdr/1080/bb/25/ac3/6/a1/none/s?/vod
+movie,Films · H.264,2071,mkv,MKV · H.264 Main 1920×960 24 fps · AC-3 2.0 + FLAC (7 tracks) · SRT subtitles (3),matroska/mkv/h264/main/8bit/sdr/1080/progressive/25/ac3+flac/2/a1+/subrip/s1+/vod
+movie,Films · H.264,2072,mkv,MKV · H.264 Main 3840×1600 23.98 fps BT.2020 SDR · AAC 2.0,matroska/mkv/h264/main/8bit/bt2020-sdr/2160/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2073,mkv,MKV · H.264 Main 3840×2076 24 fps HDR10 · AAC 2.0,matroska/mkv/h264/main/8bit/hdr10/2160/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · HEVC,2074,mkv,MKV · HEVC Main 10 1024×544 24 fps 10-bit · MP3 2.0 + HE-AAC (2 tracks) · SRT subtitles,matroska/mkv/hevc/main-10/10bit/sdr/576/progressive/25/aac/he-aac+mp3/2/a1+/subrip/s1/vod
+movie,Films · HEVC,2075,mkv,MKV · HEVC Main 10 1280×720 23.98 fps 10-bit · MP3 2.0 + AAC (2 tracks),matroska/mkv/hevc/main-10/10bit/sdr/720/progressive/25/aac/lc+mp3/2/a1+/none/s?/vod
+movie,Films · HEVC,2076,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · AAC 5.1 + AC-3 (2 tracks) · PGS + SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/aac/lc+ac3/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC,2077,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · AAC 5.1 + HE-AAC (2 tracks),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/aac/he-aac+aac/lc/6/a1+/none/s?/vod
+movie,Films · HEVC,2078,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · AAC 5.1 + HE-AAC (2 tracks) · PGS + SRT subtitles (15),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/aac/he-aac+aac/lc/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC,2079,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · AC-3 5.1 (2 tracks) · SRT subtitles (5),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/ac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC,2080,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · E-AC-3 5.1 (2 tracks) · SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/eac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC,2081,mkv,MKV · HEVC Main 10 1920×1080 23.98 fps 10-bit · TrueHD 5.1 (2 tracks),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/truehd/6/a1+/none/s?/vod
+movie,Films · HEVC,2082,mkv,MKV · HEVC Main 10 1920×1080 25 fps 10-bit interlaced · AC-3 2.0 · SRT subtitles,matroska/mkv/hevc/main-10/10bit/sdr/1080/tb/25/ac3/2/a1/subrip/s1/vod
+movie,Films · HEVC,2083,mkv,MKV · HEVC Main 10 1920×800 23.98 fps 10-bit · AC-3 2.0 + DTS (2 tracks) · SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/ac3+dts/dts/2/a1+/subrip/s1+/vod
+movie,Films · HEVC,2084,mkv,MKV · HEVC Main 10 1920×816 23.98 fps 10-bit · DTS 5.1,matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/dts/dts/6/a1/none/s?/vod
+movie,Films · HEVC HDR,2085,mkv,MKV · HEVC Main 10 3840×1584 23.98 fps 10-bit HDR10 · AC-3 2.0 + AAC (2 tracks) · PGS subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+ac3/2/a1+/hdmv_pgs_subtitle/s1+/vod
+movie,Films · HEVC HDR,2086,mkv,MKV · HEVC Main 10 3840×1598 23.98 fps 10-bit HDR10 · AC-3 5.1 + Opus (2 tracks) · SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+opus/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2087,mkv,MKV · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · AC-3 5.1 + AAC (2 tracks) · DVD + SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+ac3/6/a1+/dvd_subtitle+subrip/s1+/vod
+movie,Films · HEVC HDR,2088,mkv,MKV · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · AC-3 5.1 + E-AC-3 (2 tracks) · SRT subtitles (3),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2089,mkv,MKV · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · HE-AAC 5.1 (2 tracks) · SRT subtitles (3),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/he-aac/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2090,mkv,MKV · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · Opus 7.1 · PGS + SRT subtitles (4),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/opus/8/a1/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC HDR,2091,mkv,MKV · HEVC Main 10 3840×1600 24 fps 10-bit HDR10 · Opus 5.1 · SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/opus/6/a1/subrip/s1+/vod
+movie,Films · HEVC,2092,mkv,MKV · HEVC Main 10 3840×1600 47.95 fps 10-bit · AAC 5.1 · PGS + SRT subtitles (9),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/50/aac/lc/6/a1/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC HDR,2093,mkv,MKV · HEVC Main 10 3840×1604 23.98 fps 10-bit Dolby Vision · AC-3 5.1 + E-AC-3 (2 tracks) · SRT subtitles,matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+eac3/6/a1+/subrip/s1/vod
+movie,Films · HEVC HDR,2094,mkv,MKV · HEVC Main 10 3840×1606 24 fps 10-bit HDR10 · DTS 5.1 + AC-3 (3 tracks) · SRT subtitles (3),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2095,mkv,MKV · HEVC Main 10 3840×1632 23.98 fps 10-bit HDR10 · E-AC-3 5.1 (2 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3/6/a1+/none/s?/vod
+movie,Films · HEVC,2096,mkv,MKV · HEVC Main 10 3840×2076 23.98 fps 10-bit · AAC 5.1 (2 tracks),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/25/aac/lc/6/a1+/none/s?/vod
+movie,Films · HEVC HDR,2097,mkv,MKV · HEVC Main 10 3840×2076 23.98 fps 10-bit HDR10 · AC-3 5.1 + TrueHD (3 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+truehd/6/a1+/none/s?/vod
+movie,Films · HEVC,2098,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit · AC-3 5.1 + E-AC-3 (2 tracks) · SRT subtitles (5),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/25/ac3+eac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2099,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit Dolby Vision · E-AC-3 5.1 (2 tracks) · SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2100,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · AC-3 2.0 + HE-AAC (2 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/he-aac+ac3/2/a1+/none/s?/vod
+movie,Films · HEVC HDR,2101,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · AC-3 5.1 + E-AC-3 (2 tracks) · PGS subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3/6/a1+/hdmv_pgs_subtitle/s1+/vod
+movie,Films · HEVC HDR,2102,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · DTS 5.1 · PGS + SRT subtitles (2),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts/6/a1/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC HDR,2103,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · DTS 5.1 + AAC + AC-3 (3 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+ac3+dts/dts/6/a1+/none/s?/vod
+movie,Films · HEVC HDR,2104,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · E-AC-3 5.1 + AAC (20 tracks) · SRT subtitles (21),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+eac3/6/a1+/subrip/s1+/vod
+movie,Films · HEVC HDR,2105,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · PCM 24-bit 5.1 + AC-3 + DTS (4 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts+pcm_s24le/6/a1+/none/s?/vod
+movie,Films · HEVC HDR,2106,mkv,MKV · HEVC Main 10 3840×2160 24 fps 10-bit Dolby Vision · HE-AAC 5.1 (33 tracks) · SRT subtitles (39),matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/aac/he-aac/6/a1+/subrip/s1+/vod
+movie,Films · HEVC,2107,mkv,MKV · HEVC Main 10 3840×2160 47.95 fps 10-bit · AAC 2.0 (2 tracks) · PGS + SRT subtitles (3),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/50/aac/lc/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC,2108,mkv,MKV · HEVC Main 10 3840×2160 47.95 fps 10-bit · AAC 5.1 · PGS subtitles (4),matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/50/aac/lc/6/a1/hdmv_pgs_subtitle/s1+/vod
+movie,Films · HEVC,2109,mkv,MKV · HEVC Main 1920×1040 23.98 fps · AC-3 5.1 (2 tracks) · ASS subtitles,matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1+/ass/s1/vod
+movie,Films · HEVC,2110,mkv,MKV · HEVC Main 1920×1040 23.98 fps · AC-3 5.1 (2 tracks) · PGS + SRT subtitles (2),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod
+movie,Films · HEVC,2111,mkv,MKV · HEVC Main 1920×1080 23.98 fps · AC-3 5.1 · DVD subtitles (2),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1/dvd_subtitle/s1+/vod
+movie,Films · HEVC,2112,mkv,MKV · HEVC Main 1920×1080 23.98 fps · MP3 2.0 + AC-3 (2 tracks) · ASS subtitles,matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3+mp3/2/a1+/ass/s1/vod
+movie,Films · HEVC,2113,mkv,MKV · HEVC Main 1920×1080 23.98 fps · TrueHD 5.1 (2 tracks) · DVD subtitles (2),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/truehd/6/a1+/dvd_subtitle/s1+/vod
+movie,Films · HEVC,2114,mkv,MKV · HEVC Main 1920×1080 24 fps · AAC 2.0 · ASS subtitles (3),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/aac/lc/2/a1/ass/s1+/vod
+movie,Films · HEVC,2115,mkv,MKV · HEVC Main 1920×1080 25 fps · AC-3 2.0,matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/2/a1/none/s?/vod
+movie,Films · HEVC,2116,mkv,MKV · HEVC Main 1920×800 23.98 fps · DTS 5.1 (2 tracks) · SRT subtitles (3),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/dts/dts/6/a1+/subrip/s1+/vod
+movie,Films · HEVC,2117,mkv,MKV · HEVC Main 1920×804 23.98 fps · AC-3 5.1 (2 tracks) · DVD subtitles (4),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1+/dvd_subtitle/s1+/vod
+movie,Films · HEVC,2118,mkv,MKV · HEVC Main 1920×818 24 fps · AC-3 5.1 (2 tracks) · ASS subtitles (2),matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/ac3/6/a1+/ass/s1+/vod
+movie,Films · HEVC,2119,mkv,MKV · HEVC Main 3840×1600 24 fps · E-AC-3 5.1 + HE-AAC (8 tracks) · SRT subtitles,matroska/mkv/hevc/main/8bit/sdr/2160/progressive/25/aac/he-aac+eac3/6/a1+/subrip/s1/vod
+movie,Films · HEVC,2120,mkv,MKV · HEVC Main 3840×1656 24 fps · E-AC-3 5.1,matroska/mkv/hevc/main/8bit/sdr/2160/progressive/25/eac3/6/a1/none/s?/vod
+movie,Films · HEVC,2121,mkv,MKV · HEVC Main 3840×2080 23.98 fps · AAC 2.0 · SRT subtitles (3),matroska/mkv/hevc/main/8bit/sdr/2160/progressive/25/aac/lc/2/a1/subrip/s1+/vod
+movie,Films · HEVC,2122,mkv,MKV · HEVC Main 3840×2160 23.98 fps · E-AC-3 5.1 + AAC (31 tracks),matroska/mkv/hevc/main/8bit/sdr/2160/progressive/25/aac/lc+eac3/6/a1+/none/s?/vod
+movie,Films · HEVC,2123,mkv,MKV · HEVC Main 854×400 25 fps · AAC 2.0,matroska/mkv/hevc/main/8bit/sdr/480/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · HEVC,2124,mkv,MKV · HEVC RExt 1280×720 23.98 fps 12-bit · HE-AAC 2.0 · SRT subtitles (6),matroska/mkv/hevc/rext/10+bit/sdr/720/progressive/25/aac/he-aac/2/a1/subrip/s1+/vod
+movie,Films · HEVC,2125,mkv,MKV · HEVC RExt 1920×1080 23.98 fps 10-bit · E-AC-3 2.0 · ASS + SRT subtitles (8),matroska/mkv/hevc/rext/10bit/sdr/1080/progressive/25/eac3/2/a1/ass+subrip/s1+/vod
+movie,Films · Sound only,2126,mkv,MKV · MP3 1.0,matroska/mkv/?/?/8bit/sdr/?/progressive/?/mp3/1/a1/none/s?/vod
+movie,Films · Older video,2127,mkv,MKV · MPEG-2 Main 1024×576 25 fps interlaced · AAC 5.1 (3 tracks),matroska/mkv/mpeg2video/main/8bit/sdr/576/bb/25/aac/lc/6/a1+/none/s?/vod
+movie,Films · Older video,2128,mkv,MKV · MPEG-2 Main 1024×576 25 fps interlaced · AC-3 5.1 (3 tracks),matroska/mkv/mpeg2video/main/8bit/sdr/576/tt/25/ac3/6/a1+/none/s?/vod
+movie,Films · Older video,2129,mkv,MKV · MPEG-4 Part 2 Simple 1920×1080 25 fps · AAC 2.0 · SRT subtitles,matroska/mkv/mpeg4/simple-profile/8bit/sdr/1080/progressive/25/aac/lc/2/a1/subrip/s1/vod
+movie,Films · Older video,2130,mkv,MKV · MS MPEG-4 v3 1280×720 30 fps · MP3 2.0,matroska/mkv/msmpeg4v3/?/8bit/sdr/720/progressive/30/mp3/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2131,mkv,MKV · VP9 Profile 0 1920×1080 23.98 fps · AAC 2.0 · SRT subtitles,matroska/mkv/vp9/profile-0/8bit/sdr/1080/progressive/25/aac/lc/2/a1/subrip/s1/vod
+movie,"Films · AV1, VP9, VP8",2132,mkv,MKV · VP9 Profile 0 1920×1080 25 fps · Opus 2.0,matroska/mkv/vp9/profile-0/8bit/sdr/1080/progressive/25/opus/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2133,mkv,MKV · VP9 Profile 0 3840×2160 25 fps · AAC 2.0,matroska/mkv/vp9/profile-0/8bit/sdr/2160/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2134,mkv,MKV · VP9 Profile 0 3840×2160 29.97 fps · Opus 2.0,matroska/mkv/vp9/profile-0/8bit/sdr/2160/progressive/30/opus/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2135,mkv,MKV · VP9 Profile 2 3840×2160 60 fps 10-bit HDR10 · Opus 2.0,matroska/mkv/vp9/profile-2/10bit/hdr10/2160/progressive/60/opus/2/a1/none/s?/vod
+movie,Films · Sound only,2136,mp4,MP3 · MP3 2.0 #3,mp3/mp4/?/?/8bit/sdr/?/progressive/?/mp3/2/a1/none/s?/vod
+movie,Films · Sound only,2137,mp4,MP4 · AAC 2.0,mov/mp4/?/?/8bit/sdr/?/progressive/?/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2138,mp4,MP4 · H.264 Constrained Baseline 640×360 25 fps · AAC 2.0,mov/mp4/h264/constrained-baseline/8bit/sdr/480/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2139,mp4,MP4 · H.264 High 1920×1080 23.98 fps · E-AC-3 5.1 · MP4 text subtitles (18),mov/mp4/h264/high/8bit/sdr/1080/progressive/25/eac3/6/a1/mov_text/s1+/vod
+movie,Films · H.264,2140,mp4,MP4 · H.264 High 1920×1080 23.98 fps · HE-AAC 2.0 · MP4 text subtitles (13),mov/mp4/h264/high/8bit/sdr/1080/progressive/25/aac/he-aac/2/a1/mov_text/s1+/vod
+movie,Films · H.264,2141,mp4,MP4 · H.264 High 1920×1080 25 fps · AC-3 2.0 (5 tracks) · MP4 text subtitles (5),mov/mp4/h264/high/8bit/sdr/1080/progressive/25/ac3/2/a1+/mov_text/s1+/vod
+movie,Films · H.264,2142,mp4,MP4 · H.264 High 1920×1080 25 fps interlaced · AAC 2.0,mov/mp4/h264/high/8bit/sdr/1080/tt/25/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2143,mp4,MP4 · H.264 High 1920×960 24 fps · AAC 5.1 · MP4 text subtitles (21),mov/mp4/h264/high/8bit/sdr/1080/progressive/25/aac/lc/6/a1/mov_text/s1+/vod
+movie,Films · H.264,2144,mp4,MP4 · H.264 Main 1920×1080 30 fps · AAC 2.0 (3 tracks) · MP4 text subtitles,mov/mp4/h264/main/8bit/sdr/1080/progressive/30/aac/lc/2/a1+/mov_text/s1/vod
+movie,Films · HEVC,2145,mp4,MP4 · HEVC Main 10 1024×544 23.98 fps 10-bit · HE-AAC 2.0 · MP4 text subtitles,mov/mp4/hevc/main-10/10bit/sdr/576/progressive/25/aac/he-aac/2/a1/mov_text/s1/vod
+movie,Films · HEVC HDR,2146,mp4,MP4 · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · AC-3 5.1 (2 tracks) · MP4 text subtitles (3),mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3/6/a1+/mov_text/s1+/vod
+movie,Films · HEVC HDR,2147,mp4,MP4 · HEVC Main 10 3840×1600 23.98 fps 10-bit HDR10 · E-AC-3 5.1 (4 tracks) · MP4 text subtitles (7),mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3/6/a1+/mov_text/s1+/vod
+movie,Films · HEVC,2148,mp4,MP4 · HEVC Main 10 3840×2160 23.98 fps 10-bit · AAC 5.1 (4 tracks),mov/mp4/hevc/main-10/10bit/sdr/2160/progressive/25/aac/lc/6/a1+/none/s?/vod
+movie,Films · HEVC,2149,mp4,MP4 · HEVC Main 10 3840×2160 24 fps 10-bit · AAC 5.1 · MP4 text subtitles (35),mov/mp4/hevc/main-10/10bit/sdr/2160/progressive/25/aac/lc/6/a1/mov_text/s1+/vod
+movie,Films · HEVC,2150,mp4,MP4 · HEVC Main 3840×2160 30 fps,mov/mp4/hevc/main/8bit/sdr/2160/progressive/30/none/?/a?/none/s?/vod
+movie,Films · Older video,2151,mp4,MP4 · MPEG-4 Part 2 Advanced Simple 470×264 23.98 fps · AAC 2.0,mov/mp4/mpeg4/advanced-simple-profile/8bit/sdr/480/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · Older video,2152,mp4,MP4 · MPEG-4 Part 2 Advanced Simple 854×480 25 fps · AC-3 3.0,mov/mp4/mpeg4/advanced-simple-profile/8bit/sdr/480/progressive/25/ac3/6/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2153,mp4,MP4 · VP9 Profile 0 1920×1080 25 fps · AAC 2.0,mov/mp4/vp9/profile-0/8bit/sdr/1080/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · H.264,2154,mp4,MPEG-TS · H.264 High 1920×872 24 fps · AAC 2.0,mpegts/mp4/h264/high/8bit/sdr/1080/progressive/25/aac/lc/2/a1/none/s?/vod
+movie,Films · Older video,2155,avi,AVI · MPEG-4 Part 2 854×464 25 fps · MP3 2.0,avi/avi/mpeg4/?/8bit/sdr/480/progressive/25/mp3/2/a1/none/s?/vod
+movie,Films · Older video,2156,avi,AVI · MPEG-4 Part 2 Main 854×388 23.97 fps · AC-3 5.1,avi/avi/mpeg4/main-profile/8bit/sdr/480/progressive/25/ac3/6/a1/none/s?/vod
+movie,Films · H.264,2157,mkv,MKV · H.264 Constrained Baseline 1280×720 25 fps · AAC LTP 2.0,matroska/mkv/h264/constrained-baseline/8bit/sdr/720/progressive/25/aac/ltp/2/a1/none/s?/vod
+movie,Films · H.264,2158,mkv,MKV · H.264 High 1280×720 23.98 fps · HE-AAC 5.1 · SRT subtitles,matroska/mkv/h264/high/8bit/sdr/720/progressive/25/aac/he-aac/6/a1/subrip/s1/vod
+movie,Films · H.264,2159,mkv,MKV · H.264 High 1920×800 23.98 fps · AAC Main 2.0,matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/main/2/a1/none/s?/vod
+movie,Films · H.264,2160,mkv,MKV · H.264 High 1920×800 23.98 fps · Vorbis 1.0 + AAC (2 tracks),matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+vorbis/1/a1+/none/s?/vod
+movie,Films · H.264,2161,mkv,MKV · H.264 Main 1920×804 24 fps · AC-3 2.0 + AAC Main (2 tracks) · SRT subtitles,matroska/mkv/h264/main/8bit/sdr/1080/progressive/25/aac/main+ac3/2/a1+/subrip/s1/vod
+movie,Films · HEVC HDR,2162,mkv,MKV · HEVC Main 10 3840×2160 23.98 fps 10-bit HDR10 · Vorbis 5.1 + AC-3 (2 tracks),matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+vorbis/6/a1+/none/s?/vod
+movie,Films · HEVC,2163,mkv,MKV · HEVC Main 3840×2160 23.98 fps · Vorbis 5.1 (4 tracks) · SRT subtitles (17),matroska/mkv/hevc/main/8bit/sdr/2160/progressive/25/vorbis/6/a1+/subrip/s1+/vod
+movie,Films · Older video,2164,mkv,MKV · MPEG-4 Part 2 1024×488 25 fps · WMA v2 2.0,matroska/mkv/mpeg4/?/8bit/sdr/576/progressive/25/wmav2/2/a1/none/s?/vod
+movie,"Films · AV1, VP9, VP8",2165,mkv,MKV · VP8 640×360 24 fps · Vorbis 2.0,matroska/mkv/vp8/0/8bit/sdr/480/progressive/25/vorbis/2/a1/none/s?/vod
+movie,Films · H.264,2166,mp4,MP4 · H.264 High 1024×492 25 fps · AAC 2.0 · DVD subtitles,mov/mp4/h264/high/8bit/sdr/576/progressive/25/aac/lc/2/a1/dvd_subtitle/s1/vod
+movie,Films · Older video,2167,mp4,MP4 · MPEG-2 Main 1024×576 25 fps interlaced · AC-3 2.0 (2 tracks) · MP4 text subtitles (5),mov/mp4/mpeg2video/main/8bit/sdr/576/tt/25/ac3/2/a1+/mov_text/s1+/vod

@@ -1,0 +1,82 @@
+fingerprint,reasons
+flv/m3u8/h264/main/8bit/sdr/720/progressive/25/aac/lc/2/a1/none/s?/live,container.playlist_of_non_ts
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+eac3+eac3/dolby-digital-plus-+-dolby-atmos/2/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac/lc+eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/aac+ac3/2/a1+/subrip/s1+/vod,audio.no_free_encoder
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts-hd-ma/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dts_extension
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts-hd-ma+pcm_s24le/2/a1+/hdmv_pgs_subtitle/s1+/live,audio.dts_extension
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+dts/dts+eac3/8/a1+/subrip/s1+/vod,audio.too_many_channels_for_free_encoder
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/2/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts-hd-hra/6/a1/hdmv_pgs_subtitle/s1/vod,audio.dts_extension
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts-hd-ma/2/a1/none/s?/vod,audio.dts_extension
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/dts/dts+dts/dts-es/8/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/none/s?/vod,audio.dolby_atmos
+matroska/mkv/h264/high/8bit/sdr/1080/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/none/s?/live,audio.dolby_atmos
+matroska/mkv/h264/main/8bit/sdr/1080/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/h264/main/8bit/sdr/1080/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/1080/progressive/25/aac/lc+dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/aac/lc+ac3+dts/dts-hd-ma/2/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/aac/lc+ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+dts/dts-express+dts/dts-hd-ma+eac3+truehd/dolby-truehd-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/2/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+eac3+truehd/dolby-truehd-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/ac3+truehd/dolby-truehd-+-dolby-atmos/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/dts/dts-hd-hra+dts/dts-hd-ma-+-dts:x/8/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/dts/dts-hd-ma/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/dts/dts-hd-ma+eac3/2/a1+/subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/dolby-vision/2160/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/he-aac+truehd/dolby-truehd-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+dts/dts-hd-ma/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+dts/dts-hd-ma+eac3/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts-hd-ma/2/a1+/subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts-hd-ma/6/a1+/hdmv_pgs_subtitle/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts-hd-ma/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts-hd-ma/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+dts/dts+dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/8/a1+/none/s?/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/8/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3+eac3/dolby-digital-plus-+-dolby-atmos/2/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3+eac3/dolby-digital-plus-+-dolby-atmos+truehd/dolby-truehd-+-dolby-atmos/8/a1+/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+truehd/8/a1+/hdmv_pgs_subtitle+subrip/s1+/vod,audio.too_many_channels_for_free_encoder
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+truehd/dolby-truehd-+-dolby-atmos/6/a1+/hdmv_pgs_subtitle/s1/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts-hd-ma/2/a1/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts-hd-ma/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts-hd-ma+eac3/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/1/a1+/none/s?/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/6/a1+/none/s?/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts+dts/dts-hd-ma-+-dts:x/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/dts/dts+dts/dts-hd-ma/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos+truehd/dolby-truehd-+-dolby-atmos/8/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3+truehd/dolby-truehd-+-dolby-atmos/6/a1+/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3+truehd/dolby-truehd-+-dolby-atmos/8/a1+/none/s?/vod,audio.dolby_atmos audio.too_many_channels_for_free_encoder
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/truehd/dolby-truehd-+-dolby-atmos/8/a1/none/s?/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/hdr10/2160/progressive/25/truehd/dolby-truehd-+-dolby-atmos/8/a1/subrip/s1+/vod,audio.dolby_atmos
+matroska/mkv/hevc/main-10/10bit/sdr/1080/progressive/25/aac/he-aac+eac3/8/a1+/none/s?/vod,audio.too_many_channels_for_free_encoder
+matroska/mkv/hevc/main-10/10bit/sdr/2160/progressive/25/ac3+dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/8/a1+/subrip/s1+/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/hevc/main/8bit/sdr/1080/progressive/25/dts/dts-hd-ma+truehd/dolby-truehd-+-dolby-atmos/6/a1+/hdmv_pgs_subtitle/s1+/vod,audio.dolby_atmos audio.dts_extension
+matroska/mkv/mpeg2video/main/8bit/sdr/1080/progressive/25/dts/dts-hd-ma/6/a1+/none/s?/vod,audio.dts_extension
+matroska/mkv/vc1/advanced/8bit/sdr/1080/progressive/25/ac3+dts/dts+truehd/6/a1+/subrip/s1+/vod,video.no_free_encoder video.vc1
+mov/mp4/av1/main/10bit/hdr10/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/h264/?/8bit/sdr/720/progressive/25/aac/-1/2/a1/none/s?/vod,audio.no_free_encoder video.no_free_encoder
+mov/mp4/h264/high/8bit/sdr/1080/progressive/25/aac/6/a1/mov_text/s1/vod,audio.no_free_encoder
+mov/mp4/h264/high/8bit/sdr/1080/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/mov_text/s1/vod,audio.dolby_atmos
+mov/mp4/h264/high/8bit/sdr/1080/progressive/25/eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/h264/high/8bit/sdr/576/progressive/25/aac/he-aac/1/a1/none/s?/vod,made.differs_from_shape
+mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+eac3/dolby-digital-plus-+-dolby-atmos/2/a1+/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/aac/lc+eac3+eac3/dolby-digital-plus-+-dolby-atmos/8/a1+/mov_text/s1+/vod,audio.dolby_atmos audio.too_many_channels_for_free_encoder
+mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/ac3+eac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/mov_text/s1/vod,audio.dolby_atmos
+mov/mp4/hevc/main-10/10bit/hdr10/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/hevc/main-10/10bit/sdr/2160/progressive/25/ac3+eac3/dolby-digital-plus-+-dolby-atmos/6/a1+/mov_text/s1+/vod,audio.dolby_atmos
+mov/mp4/hevc/main-10/10bit/sdr/2160/progressive/25/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/none/s?/vod,audio.dolby_atmos
+mpegts/ts/hevc/main-10/10bit/hdr10/2160/progressive/50/eac3/dolby-digital-plus-+-dolby-atmos/6/a1/none/s?/live,audio.dolby_atmos
